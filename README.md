@@ -38,3 +38,35 @@ For detailed instructions on setting up and running the Airline Reservation Syst
 
 Feel free to modify and customize this system according to your requirements. Contributions, bug reports, and feature requests are welcome.
 
+
+LogIn page
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/2a523190-3c7d-466f-8d8b-7b0fb76a9830)
+
+
+Home Page
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/ab055e43-e27c-476f-95d7-a70689da6d1b)
+
+Add Customer page
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/0c7b992d-80f8-42e6-b564-ad2fe8583b66)
+
+Search Customer
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/5712cba1-d850-4202-bd67-f8cac5c5790e)
+
+Add Flight
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/a6dfd339-e28a-4ec3-871a-ee21d375d624)
+
+Book Flight
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/de2208d5-440d-4e10-b983-45b9a0183956)
+
+
+View Ticket
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/748c345a-7863-4727-b16b-d08118342b5a)
+
+
+Add Admin
+![image](https://github.com/rahulnulaka/Airline-Reservation-System/assets/129294156/6dc81b39-27b4-4b30-9aea-e7a828c1ac85)
+
+
+
+
+
